@@ -1,2 +1,2 @@
-TOKEN="ODMwMjc5MjIyMDk4MjY0MDY1.YHEXyA.MY1hOktl6lysl3SBt7Hd4b_TvQc"
-PREFIX='.'
+TOKEN=""
+PREFIX='.' #Default prefix you can change if you want
